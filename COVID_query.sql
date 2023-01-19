@@ -1,3 +1,5 @@
+-- This portfolio project analyzes COVID-19 statistics. The exercises below were part of an online video lesson by Alex the Analyst. 
+
 --Check if files were inserted correctly
 
 SELECT *
